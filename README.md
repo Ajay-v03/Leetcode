@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode problems solutions repository.
+This repository contains leetcode problems with solutions. All problems have solved with the concept in mind using Time and Space Complexity. The solution here designed that is best ranking in submisson of Leetcode community.
